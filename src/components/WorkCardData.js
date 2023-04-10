@@ -10,15 +10,15 @@ const ProjectCardData = [
         imgsrc : "https://scontent.fixc1-5.fna.fbcdn.net/v/t39.30808-6/340383197_966211964370643_3564763377379350819_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=tzI9qLX_cOwAX_TYvM8&_nc_ht=scontent.fixc1-5.fna&oh=00_AfDu1dU1cn_gTLqC0z263goLr_Gu7GN2cYnq8Gb90Uwkjg&oe=64377D57",
         title : "Gym Website" ,
         text : "Developed a subscription-based gymnasium website with React JS, HTML5, JS, and CSS3, allowing users to access premium services and facilities with ease. Created a resposive for mobile view website.",
-        view: "http://gym-website-eh06ok765-komalsc.vercel.app/",
-        source: ""
+        view: "https://gym-website-git-main-virender121.vercel.app/",
+        source: "https://github.com/virender121/GYM-WEBSITE"
     },
     {
         imgsrc : "https://scontent.fixc1-5.fna.fbcdn.net/v/t39.30808-6/340527723_180039721542310_8104454183060169277_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=539zDyaxgFgAX_6Q6SM&_nc_oc=AQlG31UPWGlApXFW-15RgW3lwbV5FMEo0GsWNZfNzwxUHKeK7pR3QJn_FRb6vwYMx-KWbf7UOmQguuT6takZnp4p&_nc_ht=scontent.fixc1-5.fna&oh=00_AfANfHWxxSu0poVAtEE1V0EJwie7jwdbwwOnwhToBGURZA&oe=6437E455",
-        title : "Twitter clone" ,
+        title : "Twitter Clone" ,
         text : "The user profile page is a crucial aspect of the Twitter Clone, as it provides users with a centralized location to view their tweets, followers, and other related information. The profile page is designed to be user-friendly and visually appealing, making it easy for users to navigate and interact with the platform.Created a mobile responsive website.",
-        view: "",
-        source: "https://github.com/virender121/twitterClonephase5"
+        view: "https://twitter-clone-virender121.vercel.app/",
+        source: "https://github.com/virender121/TwitterClone"
     },
     {
         imgsrc : "https://catalog.wlimg.com/4/803241/other-images/382224.jpg",
