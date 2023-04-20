@@ -44,3 +44,10 @@
         grid-template-columns: 1fr;
     }
 }
+@media screen and (max-width: 480px){
+    .project-container{
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+        padding: 0 10px;
+    }
+}
